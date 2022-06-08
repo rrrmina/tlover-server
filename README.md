@@ -36,12 +36,12 @@
 ## <p align="center"> 🌈 Member</p>
 
 ### Frontend
+https://github.com/TLOVERcp/tlover-android
 
 |윤성식|원도혜|김도영|이충환|
 |:-:|:--:|:-:|:-:|
 |<img src="https://avatars.githubusercontent.com/u/83231344?v=4" alt="SsongSik" width="100" height="100">|<img src="https://avatars.githubusercontent.com/u/75851930?v=4" alt="d00hye" width="100" height="100">|<img src="https://avatars.githubusercontent.com/u/62696816?v=4" alt="DoyKim-20" width="100" height="100">|<img src="https://avatars.githubusercontent.com/u/102038187?v=4" alt="LeeChoongHwan" width="100" height="100">|
 |[SsongSik](https://github.com/SsongSik)|[d00hye](https://github.com/d00hye)|[DoyKim-20](https://github.com/DoyKim-20)|[LeeChoongHwan](https://github.com/LeeChoongHwan)|
-https://github.com/TLOVERcp/tlover-android
 ### Backend
 
 |한규범|류민아|정혜선|윤여찬|신동민|김정우|
